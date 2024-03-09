@@ -7209,7 +7209,7 @@ typedef struct
    unsigned short SUBSYS_DELAYED_RESP_CNT;       //!< ' Subsystem Response Count: 0 - initial respond, 1 - delayed response.
 } GNSS_Factory_IQ_Test_response_header;
 
-typedef struct : GNSS_Factory_IQ_Test_response_header
+typedef struct GNSS_Factory_IQ_Test_response_results : GNSS_Factory_IQ_Test_response_header
 {
    unsigned char  VERSION;                       //!< ' Version - set to 54
    unsigned char  GNSS_CONFIG_MASK;              //!< ' Bit mask for the GNSS consternation settings.  C/No results are valid for the configured
