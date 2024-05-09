@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QMSL_NVTool-MSVC10", "QMSL_NVTool-MSVC10.vcxproj", "{4367CD41-346F-439E-A57D-11A7341367F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		External_Debug|Win32 = External_Debug|Win32
+		External_Release|Win32 = External_Release|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4367CD41-346F-439E-A57D-11A7341367F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.Debug|Win32.Build.0 = Debug|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.External_Debug|Win32.ActiveCfg = External_Debug|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.External_Debug|Win32.Build.0 = External_Debug|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.External_Release|Win32.ActiveCfg = External_Release|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.External_Release|Win32.Build.0 = External_Release|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.Release|Win32.ActiveCfg = Release|Win32
+		{4367CD41-346F-439E-A57D-11A7341367F2}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
